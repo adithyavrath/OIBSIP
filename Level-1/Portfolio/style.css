@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f5f7fa;
+    color: #333;
+  }
+  
+  header {
+    background: #111;
+    padding: 1rem 2rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo {
+    color: #fff;
+    font-size: 1.5rem;
+  }
+  
+  .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  .nav-links a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .nav-links a:hover {
+    color: #00aaff;
+  }
+  
+  .section {
+    padding: 4rem 2rem;
+    max-width: 1000px;
+    margin: auto;
+  }
+  
+  .section h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-size: 2rem;
+    color: #0077cc;
+  }
+  
+  #home {
+    background: linear-gradient(to right, #00c6ff, #0072ff);
+    color: white;
+    text-align: center;
+    padding: 6rem 2rem;
+  }
+  
+  #home .btn {
+    background: white;
+    color: #0072ff;
+    padding: 0.7rem 1.5rem;
+    margin-top: 1rem;
+    border-radius: 20px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 1rem;
+    text-align: center;
+  }
+  
+  .skills-grid div {
+    background: #0077cc;
+    color: white;
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+  
+  .timeline {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .timeline li {
+    background: #e0f7fa;
+    margin: 1rem 0;
+    padding: 1rem;
+    border-left: 5px solid #0077cc;
+  }
+  
+  .project-card {
+    background: white;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-left: 5px solid #0072ff;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+  }
+  
+  .btn {
+    display: inline-block;
+    padding: 0.7rem 1.2rem;
+    background: #0072ff;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  footer {
+    background: #111;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+  
