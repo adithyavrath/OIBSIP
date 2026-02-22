@@ -75,11 +75,8 @@ This landing page is one of several projects I've created as part of my frontend
 
 **My Projects**:
 - 🚀 NexoraTech Landing Page
-- 🧮 Smart Calculator
 - 🌡️ Temperature Converter
-- 🌟 Tribute Page (Ratan Tata)
 - 👨‍💻 Personal Portfolio
-
 ---
 
 *Created as part of my frontend development portfolio to demonstrate modern web design principles and professional development practices.*

@@ -115,17 +115,9 @@ This portfolio represents my journey as a frontend developer, showcasing my abil
 
 ### My Projects in This Portfolio
 
-1. **🧮 Smart Calculator** - A feature-rich calculator with advanced math functions and theme toggle
-2. **🚀 NexoraTech Landing Page** - Professional landing page with modern design and animations
-3. **🌡️ Temperature Converter** - Functional utility with smooth UI and real-time conversions
-4. **🌟 Tribute Page** - Elegant content page with semantic HTML and responsive design
+1. **🚀 NexoraTech Landing Page** - Professional landing page with modern design and animations
+2. **🌡️ Temperature Converter** - Functional utility with smooth UI and real-time conversions
 5. **👨‍💻 Personal Portfolio** - This website showcasing all my projects and skills
-
-### Contact & Links
-- **Portfolio**: [View Live](#)
-- **GitHub**: [Profile](#)
-- **LinkedIn**: [Connect](#)
-- **Email**: [Contact](#)
 
 ---
 
